@@ -18,7 +18,7 @@
             <hr>
         </nav>
      
-    
+        <img src="https://wallpaperaccess.com/full/172758.jpg" alt="">
         <div class="login">
             <form class="login-form">
                 <h2>Login into system</h2>
