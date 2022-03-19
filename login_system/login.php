@@ -18,7 +18,7 @@
             <hr>
         </nav>
      
-        <img src="https://wallpaperaccess.com/full/172758.jpg" alt="">
+        <img src="https://dlcdnrog.asus.com/rog/media/1591712225260.jpg" alt="">
         <div class="login">
             <form class="login-form">
                 <h2>Login into system</h2>

@@ -17,7 +17,7 @@
             </div>
             <hr>
         </nav>
-        <img src="https://wallpaperaccess.com/full/172758.jpg" alt="">
+        <img src="https://dlcdnrog.asus.com/rog/media/1591712225260.jpg" alt="">
         <div class="register">
             <form class="register-form">
                 <label for="login">Login:</label>
