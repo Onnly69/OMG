@@ -34,8 +34,9 @@
     <main>
         <div class="main-cart">
         <?php
+        error_reporting(0);
             include '../dbh.php';
-            session_start();
+            session_start();error_reporting(0);
             $id = $_SESSION['userId'];
 
             
@@ -54,7 +55,7 @@
                 $row = mysqli_fetch_assoc($result);
                
                  if($item>0){
-                       error_reporting(0);
+                       
                         if ($row['category'] === 'MOTHERBOARD' ){
   
 ?>
